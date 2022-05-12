@@ -1,8 +1,10 @@
-## Renata Gerecke (she/her)
+## renata gerecke (she/her)
 
 ### Policy Advisor at the NYC Mayor's Office of Operations, Data Management and Policy team
 
 Interested in data visualization, tech and AI policy
+
+[Twitter](http://www.twitter.com/renatagerecke)
 
 <!---
 rgerecke-ops/rgerecke-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
