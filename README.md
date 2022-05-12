@@ -1,5 +1,7 @@
-Renata Gerecke
-Policy Advisor at the NYC Mayor's Office of Operations, Data Management and Policy team
+## Renata Gerecke (she/her)
+
+### Policy Advisor at the NYC Mayor's Office of Operations, Data Management and Policy team
+
 Interested in data visualization, tech and AI policy
 
 <!---
